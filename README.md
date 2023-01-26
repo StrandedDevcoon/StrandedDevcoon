@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingTrashpanda&layout=compact)](https://github.com/CodingTrashpanda/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingTrashpanda&theme=tokyonight)
+
 
 
 <!--
