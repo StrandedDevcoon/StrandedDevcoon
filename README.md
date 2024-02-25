@@ -1,5 +1,5 @@
 <div align=center>
-<a href="https://google.com">
+<a href="[https://google.com](https://www.linkedin.com/in/titas-siauciunas-8500172b6/)">
     <img alt="StrandedDevcoon / Developer" src="https://raw.githubusercontent.com/strandeddevcoon/strandeddevcoon/main/header.svg" width="100%" />
 </a>
     
