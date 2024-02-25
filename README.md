@@ -1,7 +1,6 @@
 <a href="https://google.com">
     <img alt="StrandedDevcoon / Developer" src="https://raw.githubusercontent.com/strandeddevcoon/strandeddevcoon/main/header.svg" width="100%" />
 </a>
-### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StrandedDevcoon&theme=tokyonight)
 
