@@ -14,15 +14,20 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=StrandedDevcoon&theme=algolia&show_icons=true)](https://github.com/StrandedDevcoon)
 
 
+
 ## Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-javascript-F7DF1E.svg?logo=javascript&logoColor=black&longCache=true&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB.svg?logo=python&logoColor=white&longCache=true&style=for-the-badge)  
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-typescript-2f74c0.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)
+
 ![JetBrains](https://img.shields.io/badge/-JetBrains%20IDEAs-000000.svg?logo=jetbrains&logoColor=white&longCache=true&style=for-the-badge)
 ![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-000000.svg?logo=visualstudiocode&logoColor=007ACC&longCache=true&style=for-the-badge)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=StrandedDevcoon&show_icons=true&locale=en&layout=compact&theme=algolia)
 
 ## DevOps & Administration
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26.svg?logo=gitlab&logoColor=white&longCache=true&style=for-the-badge)
